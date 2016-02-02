@@ -21,7 +21,7 @@ function getTemplate ( story ) {
 
 First time:
 
-1. Clone the repo: `git clone git@github.com:fabien-d/github-pr-template-bookmarklet.git`
+1. Clone the repo: `git clone git@github.com:fabien-d/github-issue-template-bookmarklet.git`
 2. Install dependencies: `npm install`
 
 To build and install:
