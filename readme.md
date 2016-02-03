@@ -1,5 +1,5 @@
 # GitHub issue template bookmarklet
-Easily add a template to every GitHub issue. Customize it on [CodePen - http://codepen.io/fabien-d/full/eJjXMa/](http://codepen.io/fabien-d/full/eJjXMa/)
+Easily add a template to every GitHub issue. Customize it on [CodePen - http://codepen.io/fabien-d/full/obMOOy/](http://codepen.io/fabien-d/full/obMOOy/)
 
 ### Template
 To edit the template, open `index.js` and modify the markdown inside the `getTemplate` method.
