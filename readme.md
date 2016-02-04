@@ -4,6 +4,8 @@ Easily add a template to every GitHub issue. Customize it on [CodePen - http://c
 ### Template
 To edit the template, open `index.js` and modify the markdown inside the `getTemplate` method.
 
+![demo](https://raw.githubusercontent.com/fabien-d/github-issue-template-bookmarklet/master/github-issue.gif)
+
 ```js
 function getTemplate ( story ) {
     let template =
